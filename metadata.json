@@ -1,0 +1,7 @@
+{
+  "uuid": "myextension@example.com",
+  "name": "My Extension",
+  "description": "A simple GNOME Shell extension",
+  "version": 1,
+  "shell-version": ["48"]
+}

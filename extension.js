@@ -1,6 +1,6 @@
 import {Extension} from 'resource:///org/gnome/shell/extensions/extension.js';
 
-export default class ExampleExtension extends Extension {
+export default class AdvancedWorkspacesExtension extends Extension {
     callback() {
         let workspace_manager = global.workspace_manager;
         let active_workspace_index = workspace_manager.get_active_workspace_index();

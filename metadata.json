@@ -1,7 +1,7 @@
 {
-  "uuid": "myextension@example.com",
-  "name": "My Extension",
-  "description": "A simple GNOME Shell extension",
+  "uuid": "advanced-workspaces@example.com",
+  "name": "Advanced Workspaces",
+  "description": "Reimplementation of standard workspaces",
   "version": 1,
   "shell-version": ["48"]
 }
